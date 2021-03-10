@@ -25,7 +25,7 @@ Once these packages (programs?) are installed, the following steps need to be ex
 **Reference Table**
 | Section | Github Repo Version | Comments |
 |:-:|:-:|:-:|
-| 0 Installations and Prep | [Here]()  |   |
+| 0 Installations and Prep | [b4997a6](https://github.com/trcmohitmandokhot/staticwebsteps/tree/b4997a6355617643058913496f84df3b244ab0ad)  |   |
 
 # Appendix
 *Consider moving this to its own .md file and provide appropriate link*
