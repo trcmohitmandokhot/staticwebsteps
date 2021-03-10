@@ -8,7 +8,8 @@ A concise git based guide for static website development using Jekyll. This repo
 ## Navigating the repository
 src - All source code for this website lies in the root folder.  
 website - A githubpages.io website is built from the root directory. You can view the website [here]().  
-README.md - The documentation for this repository.
+README.md - The documentation for this repository.  
+_sites - Jekyll build generated folder (can be safely ignored). Care will be taken to remove it from the repo, to help lower the size and reduce code duplication.
 
 ## 0. Installations and Prep
 The Jekyll step-by-step [tutorial](https://jekyllrb.com/docs/installation/) is a great reference for installations you need.
@@ -26,6 +27,17 @@ Once these packages (programs?) are installed, the following steps need to be ex
 | Section | Github Repo Version | Comments |
 |:-:|:-:|:-:|
 | 0 Installations and Prep | [b4997a6](https://github.com/trcmohitmandokhot/staticwebsteps/tree/b4997a6355617643058913496f84df3b244ab0ad)  |   |
+
+## 1. Develop first webpage and "serve"
+1. Develop an `index.html` file with **Hello world!** in it. Use a text editor. Place in root of folder. 
+2. *Serve* the website: 
+  - On a local server using `bundle exec jekyll serve`
+  - On github pages, refer to documentation [here](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll). To be honest, it should be as easy as having a Gemfile and correct settings for the repository.
+
+**Reference Table**
+| Section | Github Repo Version | Comments |
+|:-:|:-:|:-:|
+| 0 Basic website | [link]()  |   |
 
 # Appendix
 *Consider moving this to its own .md file and provide appropriate link*
