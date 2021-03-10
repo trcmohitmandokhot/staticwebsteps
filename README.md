@@ -6,9 +6,9 @@ A concise git based guide for static website development using Jekyll. This repo
 2. Identify gaps in knowledge of static website development concepts.
 
 ## Navigating the repository
-src - All source code for this website lies in the root folder. 
-website - A githubpages.io website is built from the root directory. You can view the website [here]().
-README.md - The documentation for this repository
+src - All source code for this website lies in the root folder.  
+website - A githubpages.io website is built from the root directory. You can view the website [here]().  
+README.md - The documentation for this repository.
 
 ## 0. Installations and Prep
 The Jekyll step-by-step [tutorial](https://jekyllrb.com/docs/installation/) is a great reference for installations you need.
@@ -28,9 +28,9 @@ Once these packages (programs?) are installed, the following steps need to be ex
 | 0 Installations and Prep | [Here]()  |   |
 
 # Appendix
-* Consider moving this to its own .md file and provide appropriate link *
+*Consider moving this to its own .md file and provide appropriate link*
 ## Approach & Rules
 1. Each section includes one or more steps. 
-2. When changes to the website are made, code is pushed to Github. When code is pushed, the section is also published.
-  2.1 Changes to the website can be visual, functional (adding a button), or method (improvement in method).
+2. When changes to the website are made, code is pushed to Github. When code is pushed, the section is also published.  
+  - Changes to the website can be visual, functional (adding a button), or method (improvement in method).
 3. Readme sections should have a clickable reference to version of repo, which includes a code.
