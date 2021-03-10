@@ -7,7 +7,7 @@ A concise git based guide for static website development using Jekyll. This repo
 
 ## Navigating the repository
 src - All source code for this website lies in the root folder.  
-website - A githubpages.io website is built from the root directory. You can view the website [here]().  
+website - A githubpages.io website is built from the root directory. You can view the website [here](https://trcmohitmandokhot.github.io/staticwebsteps/).  
 README.md - The documentation for this repository.  
 _sites - Jekyll build generated folder (can be safely ignored). Care will be taken to remove it from the repo, to help lower the size and reduce code duplication.
 
@@ -37,7 +37,7 @@ Once these packages (programs?) are installed, the following steps need to be ex
 **Reference Table**
 | Section | Github Repo Version | Comments |
 |:-:|:-:|:-:|
-| 0 Basic website | [link]()  |   |
+| 1. Basic website | [5391fcb](https://github.com/trcmohitmandokhot/staticwebsteps/commit/5391fcbe8a0f4e98cc854dff04ce2e2eded32698)  |   |
 
 # Appendix
 *Consider moving this to its own .md file and provide appropriate link*
