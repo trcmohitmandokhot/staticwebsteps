@@ -35,9 +35,24 @@ Once these packages (programs?) are installed, the following steps need to be ex
   - On github pages, refer to documentation [here](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll). To be honest, it should be as easy as having a Gemfile and correct settings for the repository.
 
 **Reference Table**
-| Section | Github Repo Version | Comments |
+| Section | Github Repo Version | Tutorial Step |
 |:-:|:-:|:-:|
-| 1. Basic website | [5391fcb](https://github.com/trcmohitmandokhot/staticwebsteps/commit/5391fcbe8a0f4e98cc854dff04ce2e2eded32698)  |   |
+| 1. Basic website | [5391fcb](https://github.com/trcmohitmandokhot/staticwebsteps/tree/5391fcbe8a0f4e98cc854dff04ce2e2eded32698)  | [01-Init](https://jekyllrb.com/docs/step-by-step/01-setup/) |
+
+## 2. Understand and use Liquid Concepts on Webpage
+Liquid - A templating language written in Ruby. Three core concepts, which can be understood as:
+a) Objects - Similar to variables
+b) Tags - Flow control mechanisms (ifs)
+c) Filters - Modify output of objects using some predefined functions
+
+This section has two steps:
+1) Add *Front Matter* to files (*.html, *.md) to process Liquid.
+2) Use filter to modify object "Hello World!" in `<h1>` of `index.html`. We apply the ` | downcase ` filter to the object and observe output.
+
+**Reference Table**
+| Section | Github Repo Version | Tutorial Step |
+|:-:|:-:|:-:|
+| 2. Use Liquid | [link]()  | [02-liquid](https://jekyllrb.com/docs/step-by-step/02-liquid/)  |
 
 # Appendix
 *Consider moving this to its own .md file and provide appropriate link*
