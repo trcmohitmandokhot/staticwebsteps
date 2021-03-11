@@ -8,6 +8,7 @@ A concise git based guide for static website development using Jekyll. This repo
 ## Navigating the repository
 src - All source code for this website lies in the root folder.  
 website - A githubpages.io website is built from the root directory. You can view the website [here](https://trcmohitmandokhot.github.io/staticwebsteps/).  
+**NOTE** - *Due to the way Githubpages.io operates the website at the above link will be for the latest version of the Jekyll repository. Users who wish to visualize the website for a previous version may build and serve the specific version from a local clone for the appropriate version*.  
 README.md - The documentation for this repository.  
 _sites - Jekyll build generated folder (can be safely ignored). Care will be taken to remove it from the repo, to help lower the size and reduce code duplication.
 
@@ -52,7 +53,7 @@ This section has two steps:
 **Reference Table**
 | Section | Github Repo Version | Tutorial Step |
 |:-:|:-:|:-:|
-| 2. Use Liquid | [link]()  | [02-liquid](https://jekyllrb.com/docs/step-by-step/02-liquid/)  |
+| 2. Use Liquid | [46ec279](https://github.com/trcmohitmandokhot/staticwebsteps/tree/46ec2793bec3dc77a8b70bda735c1db60af8c467)  | [02-liquid](https://jekyllrb.com/docs/step-by-step/02-liquid/)  |
 
 # Appendix
 *Consider moving this to its own .md file and provide appropriate link*
