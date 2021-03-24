@@ -60,15 +60,26 @@ This section has two steps:
 This section has two steps:
 1) Define webpage title via front matter in the 'index.html' file.
 2) For Jekyll to process front matter define character sequence at the top of the file.
+
+**Reference Table**
+| Section | Github Repo Version | Tutorial Step |
+|:-:|:-:|:-:|
+| 3. Use frontmatter | [32c94c2](https://github.com/trcmohitmandokhot/staticwebsteps/tree/32c94c27be0ffb8aa70c143f975226932030fa15)  | [03-front-matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  |
+
+## 4&5. Add new page and include a method to navigate
+This section has three steps:
+1) Create a new page using markdown language "about.md"
+2) Create a navigation scheme under _includes folder with navigation.html page. 
+3) Add a method to navigate between two pages "index.html" and "about.md" using a jekyll liquid concept as shown below in the _layouts/default.html file: 
 '''
----
----
+{%include navigation.html}
 '''
 
 **Reference Table**
 | Section | Github Repo Version | Tutorial Step |
 |:-:|:-:|:-:|
 | 3. Use frontmatter | [32c94c2](https://github.com/trcmohitmandokhot/staticwebsteps/tree/32c94c27be0ffb8aa70c143f975226932030fa15)  | [03-front-matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  |
+
 
 # Appendix
 *Consider moving this to its own .md file and provide appropriate link*
