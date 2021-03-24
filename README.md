@@ -68,7 +68,7 @@ This section has two steps:
 **Reference Table**
 | Section | Github Repo Version | Tutorial Step |
 |:-:|:-:|:-:|
-| 3. Use frontmatter | [link]()  | [03-front-matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  |
+| 3. Use frontmatter | [32c94c2](https://github.com/trcmohitmandokhot/staticwebsteps/tree/32c94c27be0ffb8aa70c143f975226932030fa15)  | [03-front-matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  |
 
 # Appendix
 *Consider moving this to its own .md file and provide appropriate link*
