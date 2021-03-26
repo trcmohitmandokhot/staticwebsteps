@@ -92,7 +92,7 @@ This section has 2 steps
 **Reference Table**
 | Section | Github Repo Version | Tutorial Step |
 |:-:|:-:|:-:|
-| 6. Data Files | [link]()  | [06-data-files](https://jekyllrb.com/docs/step-by-step/06-data-files/)  |
+| 6. Data Files | [9a3f54c](https://github.com/trcmohitmandokhot/staticwebsteps/tree/9a3f54c71287ddca9f24b6d4b794a9dbad8e1ed1)  | [06-data-files](https://jekyllrb.com/docs/step-by-step/06-data-files/)  |
 
 
 # Appendix
