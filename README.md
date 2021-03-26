@@ -80,7 +80,19 @@ This section has four steps:
 **Reference Table**
 | Section | Github Repo Version | Tutorial Step |
 |:-:|:-:|:-:|
-| 4&5. Multi-page navigation | [c7ffb35](https://github.com/trcmohitmandokhot/staticwebsteps/tree/c7ffb35811276b364f369f996e72be5c39b2bc02)  | [05-front-matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  |
+| 4&5. Multi-page navigation | [c7ffb35](https://github.com/trcmohitmandokhot/staticwebsteps/tree/c7ffb35811276b364f369f996e72be5c39b2bc02)  | [05-includes](https://jekyllrb.com/docs/step-by-step/05-includes/)  |
+
+## 6. Include navigation information from data files
+Goal - Reduce code duplication by accessing content information from data files, using native jeyll methods. The "navigation.html" file is used as a sample case to demonstrate this technique.
+
+This section has 2 steps
+1) Define links and name of page in YAML format inside a _data/navigation.yml file
+2) Access content for _includes/navigation.html file from the _data folder using jekyll's technique. 
+
+**Reference Table**
+| Section | Github Repo Version | Tutorial Step |
+|:-:|:-:|:-:|
+| 6. Data Files | [link]()  | [06-data-files](https://jekyllrb.com/docs/step-by-step/06-data-files/)  |
 
 
 # Appendix
