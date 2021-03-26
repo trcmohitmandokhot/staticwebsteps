@@ -66,19 +66,20 @@ This section has two steps:
 |:-:|:-:|:-:|
 | 3. Use frontmatter | [32c94c2](https://github.com/trcmohitmandokhot/staticwebsteps/tree/32c94c27be0ffb8aa70c143f975226932030fa15)  | [03-front-matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  |
 
-## 4&5. Add new page and include a method to navigate
-This section has three steps:
+## 4&5. Multi-page navigation
+This section has four steps:
 1) Create a new page using markdown language "about.md"
 2) Create a navigation scheme under _includes folder with navigation.html page. 
 3) Add a method to navigate between two pages "index.html" and "about.md" using a jekyll liquid concept as shown below in the _layouts/default.html file: 
-'''
+```ruby
 {%include navigation.html}
-'''
+```
+4) Use jekyll's methods to modify and highlight current page in the navigation list
 
 **Reference Table**
 | Section | Github Repo Version | Tutorial Step |
 |:-:|:-:|:-:|
-| 3. Use frontmatter | [32c94c2](https://github.com/trcmohitmandokhot/staticwebsteps/tree/32c94c27be0ffb8aa70c143f975226932030fa15)  | [03-front-matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  |
+| 4&5. Multi-page navigation | [link]()  | [05-front-matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  |
 
 
 # Appendix

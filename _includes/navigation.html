@@ -1,4 +1,8 @@
 <nav>
-  <a href="/staticwebsteps">Home</a>
-  <a href="/staticwebsteps/about.html">About</a>
+  <a href="/staticwebsteps"{% if page.url == "/staticwebsteps" %} style = "color: red;" {% endif %}>
+    Home
+  </a>
+  <a href="/staticwebsteps/about.html"{% if page.url == "/staticwebsteps/about.html" %} style = "color: red;" {% endif %}>
+    About
+  </a>
 </nav>
