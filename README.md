@@ -72,14 +72,15 @@ This section has four steps:
 2) Create a navigation scheme under _includes folder with navigation.html page. 
 3) Add a method to navigate between two pages "index.html" and "about.md" using a jekyll liquid concept as shown below in the _layouts/default.html file: 
 ```ruby
-{%include navigation.html}
+{%include navigation.html %}
+{{ content }}
 ```
 4) Use jekyll's methods to modify and highlight current page in the navigation list
 
 **Reference Table**
 | Section | Github Repo Version | Tutorial Step |
 |:-:|:-:|:-:|
-| 4&5. Multi-page navigation | [link]()  | [05-front-matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  |
+| 4&5. Multi-page navigation | [c7ffb35](https://github.com/trcmohitmandokhot/staticwebsteps/tree/c7ffb35811276b364f369f996e72be5c39b2bc02)  | [05-front-matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  |
 
 
 # Appendix
