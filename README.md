@@ -110,6 +110,20 @@ On completion of these steps, the navigation feature of the website will color t
 |:-:|:-:|:-:|
 | 7. Assets-Styles | [f4f4b6f](https://github.com/trcmohitmandokhot/staticwebsteps/tree/f4f4b6f7782bca41bd0339996738ce4316b95e2c)  | [07-assets](https://jekyllrb.com/docs/step-by-step/07-assets/)  |
 
+## 8. Blog Posts 
+Goal - Easily add a new blog-post section to this website. 
+
+This section has 4 steps
+1) Author a blog post in markdown language under a new folder "_posts" in the site's root directory.
+2) Create a new layout with layout-inheritance concepts to display these posts. 
+3) Create a "blog.html" page designed to list all blog posts added to the folder. Add more posts for show-casing purposes. 
+4) Create a method to navigate to the "blog.html" page and subsequent blog-posts. 
+
+**Reference Table**
+| Section | Github Repo Version | Tutorial Step |
+|:-:|:-:|:-:|
+| 8. Blogs | [link]()  | [08-blogging](https://jekyllrb.com/docs/step-by-step/08-blogging/)  |
+
 # Appendix
 *Consider moving this to its own .md file and provide appropriate link*
 ## Approach & Rules
