@@ -114,7 +114,8 @@ On completion of these steps, the navigation feature of the website will color t
 Goal - Easily add a new blog-post section to this website. 
 
 This section has 4 steps
-1) Author a blog post in markdown language under a new folder "_posts" in the site's root directory.
+1) Author a blog post in markdown language under a new folder "_posts" in the site's root directory.  
+*Pay special attention to the naming requirements of post files. YEAR-MONTH-DAY-title.MARKUP. Files named differently will not be successfully built* 
 2) Create a new layout with layout-inheritance concepts to display these posts. 
 3) Create a "blog.html" page designed to list all blog posts added to the folder. Add more posts for show-casing purposes. 
 4) Create a method to navigate to the "blog.html" page and subsequent blog-posts. 
