@@ -108,7 +108,7 @@ On completion of these steps, the navigation feature of the website will color t
 **Reference Table**
 | Section | Github Repo Version | Tutorial Step |
 |:-:|:-:|:-:|
-| 7. Assets-Styles | [link]()  | [07-assets](https://jekyllrb.com/docs/step-by-step/07-assets/)  |
+| 7. Assets-Styles | [f4f4b6f](https://github.com/trcmohitmandokhot/staticwebsteps/tree/f4f4b6f7782bca41bd0339996738ce4316b95e2c)  | [07-assets](https://jekyllrb.com/docs/step-by-step/07-assets/)  |
 
 # Appendix
 *Consider moving this to its own .md file and provide appropriate link*
