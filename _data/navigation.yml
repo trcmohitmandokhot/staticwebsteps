@@ -1,6 +1,6 @@
 - name: Home
-  link: /
+  link: /staticwebsteps
 - name: About
-  link: /about.html
+  link: /staticwebsteps/about.html
 - name: Blog
-  link: /blog.html
+  link: /staticwebsteps/blog.html
